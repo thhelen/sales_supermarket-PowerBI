@@ -16,16 +16,16 @@ I extracted the dataset using the Kaggle API and performed preprocessing in Pyth
 
 The dataset includes detailed sales records with attributes such as:
 
-Invoice ID – Unique identifier for each transaction
-Branch & City – Location of the supermarket branch
-Customer Type – Membership status (Member/Normal)
-Gender – Customer gender information
-Product Line – Categories like electronics, fashion, and food
-Unit Price & Quantity – Price per item and number of units purchased
-Total Sales – Final purchase amount, including tax
-Payment Method – Cash, credit card, or e-wallet
-COGS & Gross Income – Cost of goods sold and profit margin
-Customer Rating – Satisfaction score (1 to 10)
+* Invoice ID – Unique identifier for each transaction
+* Branch & City – Location of the supermarket branch
+* Customer Type – Membership status (Member/Normal)
+* Gender – Customer gender information
+* Product Line – Categories like electronics, fashion, and food
+* Unit Price & Quantity – Price per item and number of units purchased
+* Total Sales – Final purchase amount, including tax
+* Payment Method – Cash, credit card, or e-wallet
+* COGS & Gross Income – Cost of goods sold and profit margin
+* Customer Rating – Satisfaction score (1 to 10)
 
 ## Power BI Report
 I have designed several Power BI dashboards to analyze different aspects of the data:
